@@ -1,7 +1,7 @@
 package assignment4;
 import java.util.*;
 
-public class Main {
+public class Main {             //created by Amirhossein Safari
 
     public static void main(String[] args) {
 
