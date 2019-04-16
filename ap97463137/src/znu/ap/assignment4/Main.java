@@ -41,13 +41,13 @@ public class Main {             //created by Amirhossein Safari
             for(int r = 0; r<b ; r++){
 
                 for(int i = 0; i<b-1 ;i++){
-
                     if(A[d][i] > A[d][i+1]){
+                        flage = true;
                         for(int j = 0; j<a ; j++){
                         temp = A[j][i+1];
                         A[j][i+1] = A[j][i];
                         A[j][i] = temp;
-                        flage = true;
+                        
                         }
                     }
                 }
