@@ -1,6 +1,6 @@
 package assignment5;
 
-public class Main {
+public class Main {             //created by Amirhossein Safari
 
     public static void main(String[] args) {
 
